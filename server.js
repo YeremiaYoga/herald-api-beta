@@ -10,6 +10,14 @@ const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 
+const corsOptions = {
+  origin: "http://localhost:30000", // Allow your frontend URL
+  methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+  credentials: true, // Allow credentials if needed
+};
+
+app.use(cors(corsOptions));
+
 app.use("/data", express.static(path.join(__dirname, "data")));
 
 app.get("/api/data", (req, res) => {
