@@ -4,6 +4,7 @@ const data = [
     name: "Cabin Forest in the River",
     release: "2024/October",
     thumbnail: "cabin-forest-in-the-river-thumbnail.jpg",
+    tags: ["forest", "free", "cabin"],
     preview:
       "https://heraldenterimentmedia.my.id/Cabin%20Forest%20in%20the%20River/preview.webp",
     json: "scene-cabin-forest-in-the-river.json",
@@ -25,6 +26,7 @@ const data = [
     name: "Ruined Castle Within Forest",
     release: "2024/October",
     thumbnail: "ruined-castle-within-forest-thumbnail.jpg",
+    tags: ["forest", "free"],
     preview:
       "https://heraldenterimentmedia.my.id/Ruined%20Castle%20Within%20Forest/preview.webp",
     json: "scene-ruined-castle-within-forest.json",
@@ -43,9 +45,10 @@ const data = [
   },
   {
     id: 3,
-    name: "Ruined Castle Within Forest Copy",
-    release: "2024/October",
+    name: "Orion's Cabin",
+    release: "2024/November",
     thumbnail: "ruined-castle-within-forest-thumbnail.jpg",
+    tags: ["forest", "premium", "cabin"],
     preview:
       "https://heraldenterimentmedia.my.id/Ruined%20Castle%20Within%20Forest/preview.webp",
     json: "scene-ruined-castle-within-forest.json",
@@ -64,9 +67,10 @@ const data = [
   },
   {
     id: 4,
-    name: "Cabin Forest in the River Copy",
-    release: "2024/October",
+    name: "A River Approach",
+    release: "2024/November",
     thumbnail: "cabin-forest-in-the-river-thumbnail.jpg",
+    tags: ["forest", "premium"],
     preview:
       "https://heraldenterimentmedia.my.id/Cabin%20Forest%20in%20the%20River/preview.webp",
     json: "scene-cabin-forest-in-the-river.json",
