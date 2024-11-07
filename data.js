@@ -2,6 +2,7 @@ const data = [
   {
     id: 1,
     name: "Cabin Forest in the River",
+    folder_name:"Cabin Forest in the River",
     release: "2024/October",
     thumbnail: "cabin-forest-in-the-river-thumbnail.jpg",
     tags: ["forest", "free", "cabin"],
@@ -24,6 +25,7 @@ const data = [
   {
     id: 2,
     name: "Ruined Castle Within Forest",
+    folder_name:"Ruined Castle Within Forest",
     release: "2024/October",
     thumbnail: "ruined-castle-within-forest-thumbnail.jpg",
     tags: ["forest", "free"],
@@ -47,6 +49,7 @@ const data = [
   {
     id: 3,
     name: "A River Approach (74x73)",
+    folder_name:"A River Approach (74x73)",
     release: "2024/November",
     thumbnail: "a-river-approach-74x73-thumbnail.jpg",
     tags: ["forest", "premium"],
@@ -78,7 +81,8 @@ const data = [
   },
   {
     id: 4,
-    name: "Orion's Cabin",
+    name: "Orion's River",
+    folder_name:"Orion's River",
     release: "2024/November",
     thumbnail: "orions-cabin-thumbnail.jpg",
     tags: ["forest", "premium", "cabin"],
