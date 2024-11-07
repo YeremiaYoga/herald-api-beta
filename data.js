@@ -84,7 +84,7 @@ const data = [
     name: "Orion's River",
     folder_name:"Orion's River",
     release: "2024/November",
-    thumbnail: "orions-cabin-thumbnail.jpg",
+    thumbnail: "orions-river-thumbnail.jpg",
     tags: ["forest", "premium", "cabin"],
     preview:
       "https://heraldenterimentmedia.my.id/Orion's%20River/river-preview.webp",
