@@ -122,6 +122,49 @@ const data = [
       },
     ],
   },
+  {
+    id: 5,
+    name: "Vallarian’s Cabin",
+    folder_name:"Orion's River",
+    release: "2024/November",
+    thumbnail: "orions-river-thumbnail.jpg",
+    tags: ["forest", "premium", "cabin"],
+    preview:
+      "https://heraldenterimentmedia.my.id/Orion's%20River/river-preview.webp",
+    json: "fvtt-Scene-orion's-river-(72x59)-N4dqUT041k5Wjl1N.json",
+    assets: [
+      {
+        id: 1,
+        name: "2nd-floor-cabin-11.webp",
+        url: "https://heraldenterimentmedia.my.id/Orion's%20River/2nd-floor-cabin-11.webp",
+      },
+      {
+        id: 2,
+        name: "2nd-floor-cabinn-22.webp",
+        url: "https://heraldenterimentmedia.my.id/Orion's%20River/2nd-floor-cabinn-22.webp",
+      },
+      {
+        id: 3,
+        name: "riverr.webp",
+        url: "https://heraldenterimentmedia.my.id/Orion's%20River/riverr.webp",
+      },
+      {
+        id: 4,
+        name: "roof-cabin-1.webp",
+        url: "https://heraldenterimentmedia.my.id/Orion's%20River/roof-cabin-1.webp",
+      },
+      {
+        id: 5,
+        name: "roof-cabin-2.webp",
+        url: "https://heraldenterimentmedia.my.id/Orion's%20River/roof-cabin-2.webp",
+      },
+      {
+        id: 6,
+        name: "roof-hut.webp",
+        url: "https://heraldenterimentmedia.my.id/Orion's%20River/roof-hut.webp",
+      },
+    ],
+  },
 ];
 
 module.exports = data;
